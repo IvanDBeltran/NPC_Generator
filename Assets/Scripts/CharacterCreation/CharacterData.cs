@@ -9,7 +9,7 @@ namespace CharacterCreation
         [SerializeField] private Mesh m_Mesh;
         public Mesh Mesh => m_Mesh;
    
-        [SerializeField] List<Material> m_Materials = new List<Material>();
+        [SerializeField] private List<Material> m_Materials = new List<Material>();
     
         public Material GetMaterial()
         {
