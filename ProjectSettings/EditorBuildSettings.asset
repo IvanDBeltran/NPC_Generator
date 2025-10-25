@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/NPC_Generator.unity
+    guid: b7df4df334bf1324cb98cc5160d73bfd
+  - enabled: 1
+    path: Assets/Scenes/Model_Selection.unity
+    guid: 5ba71f4d99de6344884e4932a8d1ed28
+  - enabled: 1
+    path: Assets/Scenes/Profile_Selection.unity
+    guid: 67d2fd343571cb5418d15669b0d838ea
+  - enabled: 1
+    path: Assets/Scenes/Behavior_Selection.unity
+    guid: 0d0f3b3b61452bd49ab5de0590171879
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -27,9 +27,4 @@ namespace Patterns.Observer
             }
         }
     }
-
-    namespace Patterns.Observer
-    {
-    }
-
 }
